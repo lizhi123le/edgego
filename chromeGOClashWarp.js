@@ -8,6 +8,7 @@ const uniqueStrings = new Set();
 const jsyaml = require('js-yaml');
 async function handleRequest(request) {
 	// 定义要发送请求的地址数组，每个元素包含一个 url 和一个处理函数
+
 	const sites = [
 		{ url: "https://www.gitlabip.xyz/Alvin9999/pac2/master/hysteria/1/config.json", type: "hysteria" },
 		{ url: "https://gitlab.com/free9999/ipupdate/-/raw/master/hysteria/config.json", type: "hysteria" },
