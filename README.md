@@ -13,7 +13,7 @@
 ### 不套warp版本（clashmeta）
 
 ```
-https://chromegoclash.marco.us.kg/
+https://goclash.marcoshz.ggff.net/
 ```
 
 ### 套warp版本（clashmeta）可以访问被限制的网站（如p站等）
@@ -25,7 +25,7 @@ https://chromegoclashwarp.marcol.top/
 ### 通用base64链接 （shadowrocket和nekoray系列）
 
 ```
-https://chromenodes.marco.us.kg/
+https://gob64.marcoshz.ggff.net/
 ```
 
 
